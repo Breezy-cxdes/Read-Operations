@@ -1,0 +1,1 @@
+1883: The first programming language was developed in 1883 when Ada Lovelace and Charles Babbage worked together on the Analytical Engine, which was a primitive mechanical computer. Lovelace was able to discern the importance of numbers, realizing that they could represent more than just numerical values of things
